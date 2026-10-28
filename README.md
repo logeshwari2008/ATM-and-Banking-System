@@ -3,7 +3,6 @@
 # Name: LOGESHWARI N
 # Date: 28/10/2026
 
-
 # AIM:
 To develop the ATM and Banking System using Star UML
 
